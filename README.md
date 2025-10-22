@@ -31,7 +31,7 @@
       pip install -r requirements.txt
   2. 打开智慧树课程页面，确保布局稳定
   3. 运行脚本:
-      python main.py
+      python zhihuishu_auto.py
   4. 按提示交互选择 ROI（视频区 / 下一课区 / 答题区 / 关闭区）
   5. 设置参数或直接使用默认参数开始自动化
   6. Ctrl+C 可随时中断脚本
